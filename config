@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.6",
-  "ReleaseNotes": "Pudim v6\n\nTudo Pronto",
+  "Version": "1.0.7",
+  "ReleaseNotes": "Pudim v7\n\nTudo Pronto",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "",
@@ -25,7 +25,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "dbz.gokussh.ml",
-      "CheckUser": "http://20.197.235.228:5454/checkUser",
+      "CheckUser": "http://191.232.198.117:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
