@@ -1,8 +1,8 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "Pudim v2\n\nTudo Pronto",
-  "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
-  "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
+  "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
+  "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "",
   "UrlContato": "https://t.me/hyvozin",
   "UrlTermos": "https://t.me/nuvemdepudim",
