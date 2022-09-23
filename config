@@ -1,6 +1,6 @@
 {
   "Version": "1.0.2",
-  "ReleaseNotes": "Pudim v35\n\nTeste na tiM\nby Mister_M",
+  "ReleaseNotes": "Pudim v2\n\nTudo Pronto",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
   "EmailFeedback": "",
@@ -17,8 +17,8 @@
       "CheckUser": "http://20.197.235.228:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
+      "USER": "pudim",
+      "PASS": "pudim"
     }
  ],
   "Networks": [
