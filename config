@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.35",
+  "Version": "1.0.2",
   "ReleaseNotes": "Pudim v35\n\nTeste na tiM\nby Mister_M",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/c4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/c4g/main/sms",
   "EmailFeedback": "",
   "UrlContato": "https://t.me/hyvozin",
-  "UrlTermos": "https://t.me/hyvozin",
+  "UrlTermos": "https://t.me/nuvemdepudim",
   "CheckUser": "true",
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
