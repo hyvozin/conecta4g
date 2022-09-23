@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.4",
-  "ReleaseNotes": "Pudim c4G - v4\n\nTudo Pronto",
+  "Version": "1.0.5",
+  "ReleaseNotes": "Pudim - v5\n\nTudo Pronto",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "",
@@ -10,7 +10,7 @@
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
     {
-      "Name": "PUDIM FREE [1]",
+      "Name": "PUDIM SERVER [1]",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "pudim.hyvozin.ml",
@@ -21,7 +21,7 @@
       "PASS": "pudim"
     },
 {
-      "Name": "PUDIM PREMIUM [2]",
+      "Name": "PUDIM SERVER [2]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "dbz.gokussh.ml",
