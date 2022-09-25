@@ -1,11 +1,11 @@
 {
-  "Version": "1.0.11",
-  "ReleaseNotes": "Pudim v11\n\nTirando o lixo...",
+  "Version": "1.0.12",
+  "ReleaseNotes": "Pudim v12\n\nTirando o lixo...",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "",
   "UrlContato": "https://t.me/hyvozin",
-  "UrlTermos": "https://t.me/nuvemdepudim",
+  "UrlTermos": "https://t.me/nuvempudinficada",
   "CheckUser": "true",
   "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
