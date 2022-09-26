@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.15",
-  "ReleaseNotes": "Pudim v15\n\nQuase Tudo On",
+  "Version": "1.0.20",
+  "ReleaseNotes": "Pudim v20\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "",
@@ -54,19 +54,27 @@
       "Info": "Direct"
      },
 {
-"Name": "TIM CLOUDFLARE [1]",
-            "FLAG": "tim",
-            "Payload": "GET wss://cursolivre.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "cursolivre.ampli.com.br",
-            "TlsIP": "172.64.144.237",
-            "ProxyIP": "",
-            "ProxyPort": "443",
-            "Info": "Tlsws"
-
-},
-
+      "Name": "TIM🔵 E VIVO💜",
+      "FLAG": "tim",
+      "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "SNI": "duvidas.ampli.com.br",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "104.16.53.111",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
+   {
+      "Name": "VIVO",
+      "FLAG": "vivo",
+      "Payload": "GET wss://atendimento.alliedbrasil.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "SNI": "atendimento.alliedbrasil.com.br",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "104.16.53.111",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
+    },
 {
-      "Name": "TIM CLOUDFLARE [3]",
+      "Name": "TIM CLOUDFLARE [1]",
       "FLAG": "tim",
       "Payload": "GET wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "duvidas.ampli.com.br",
@@ -85,16 +93,6 @@
        "ProxyPort": "443",
        "Info": "Tlsws"
         },
-{
-"Name": "TIM l OI l VIVO l CLARO",
-   "FLAG": "tim",
-  "Payload": "GET wss://bam.nr-data.net// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep -Vivo[crlf][crlf]",
-    "SNI": "bam.nr-data.net",
-      "TlsIP": "104.16.53.111",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-     "Info": "Tlsws"
-},
   {
       "Name": "CLARO CDN [1]",
       "FLAG": "claro",
