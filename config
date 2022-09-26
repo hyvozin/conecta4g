@@ -54,7 +54,19 @@
       "Info": "Direct"
      },
 {
-      "Name": "TIM CLOUDFLARE [1]",
+"Name": "TIM CLOUDFLARE [1]",
+            "FLAG": "tim",
+            "Payload": "GET wss://cursolivre.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "SNI": "cursolivre.ampli.com.br",
+            "TlsIP": "172.64.144.237",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+
+},
+
+{
+      "Name": "TIM CLOUDFLARE [3]",
       "FLAG": "tim",
       "Payload": "GET wss://duvidas.ampli.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
        "SNI": "duvidas.ampli.com.br",
@@ -73,6 +85,16 @@
        "ProxyPort": "443",
        "Info": "Tlsws"
         },
+{
+"Name": "TIM l OI l VIVO l CLARO",
+   "FLAG": "hyvozin",
+  "Payload": "GET wss://bam.nr-data.net// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep -Vivo[crlf][crlf]",
+    "SNI": "bam.nr-data.net",
+      "TlsIP": "104.16.53.111",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+     "Info": "Tlsws"
+},
   {
       "Name": "CLARO CDN [1]",
       "FLAG": "claro",
