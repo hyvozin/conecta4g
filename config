@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.20",
-  "ReleaseNotes": "Pudim v20\n\nQuase Tudo On",
+  "Version": "1.0.21",
+  "ReleaseNotes": "Pudim v21\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "",
