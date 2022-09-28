@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.21",
-  "ReleaseNotes": "Pudim v21\n\nQuase Tudo On",
+  "Version": "1.0.22",
+  "ReleaseNotes": "Pudim v22\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "",
@@ -30,22 +30,11 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-    {
-      "Name": "PUDIM CDN [3]",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "pudim.megassh.net",
-      "CheckUser": "http://191.232.198.117:5454/checkUser",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
     }
  ],
   "Networks": [
   {
-      "Name": "🍮 CONEXÕES NOVAS 🍮",
+      "Name": "🍮 PUDIM V22 🍮",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
@@ -53,6 +42,26 @@
       "ProxyPort": "80",
       "Info": "Direct"
      },
+{
+      "Name": "CLARO [1]",
+      "FLAG": "claro",
+      "Payload": "GET http://brunaclaro.com.br HTTP/1.0[crlf]Host: [app_host]http://brunaclaro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Direct"
+     },
+     {
+      "Name": "CLARO [2]",
+      "FLAG": "CLARO",
+      "Payload": "GET http://minhaclaroresidencial.claro.com.br HTTP/1.0[crlf]Host: [app_host]http://minhaclaroresidencial.claro.com.br[crlf]Connection: keep-alive[crlf]User-Agent: Upgrade [crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Direct"
+        },
 {
       "Name": "TIM🔵 E VIVO💜",
       "FLAG": "tim",
