@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.26",
-  "ReleaseNotes": "Pudim v26\n\nQuase Tudo On",
+  "Version": "1.0.27",
+  "ReleaseNotes": "Pudim v27\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
@@ -34,7 +34,7 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V26 🍮",
+      "Name": "🍮 PUDIM V27 🍮",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
@@ -42,6 +42,16 @@
       "ProxyPort": "80",
       "Info": "Direct"
      },
+{
+      "Name": "TIM modo AVIAO 6x",
+      "FLAG": "tim",
+      "Payload": "HTTP/ [crlf][crlf]|[crlf]]]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "[app_host]",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+      },
 {
             "Name": "TIM NORMAL [1]",
             "FLAG": "tim",
