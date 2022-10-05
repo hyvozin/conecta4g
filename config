@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.27",
-  "ReleaseNotes": "Pudim v27\n\nQuase Tudo On",
+  "Version": "1.0.28",
+  "ReleaseNotes": "Pudim v28\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
@@ -34,7 +34,7 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V27 🍮",
+      "Name": "🍮 PUDIM V28 🍮",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
@@ -42,6 +42,16 @@
       "ProxyPort": "80",
       "Info": "Direct"
      },
+  {
+   "Name": "TIM teste",
+   "FLAG": "tim",
+   "Payload": "GET wss://ajuda.c6bank.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: WebSocket[crlf][crlf]",
+   "SNI": "ajuda.c6bank.com.br",
+   "TlsIP": "104.16.236.16",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+   },
 {
       "Name": "TIM modo AVIAO 6x",
       "FLAG": "tim",
