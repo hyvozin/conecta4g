@@ -10,7 +10,7 @@
 "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
 {
-      "Name": "PUDIM SERVER [1]",
+      "Name": "PUDIM SV [1]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "pudim.hyvozin.ml",
@@ -21,11 +21,22 @@
       "PASS": ""
     },
 {
-      "Name": "PUDIM SERVER [2]",
+      "Name": "PUDIM SV [2]",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "dbz.gokussh.ml",
+      "ServerIP": "dbz.pudinficaduh.ml",
       "CheckUser": "http://191.232.198.117:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+  {
+      "Name": "SV NETTUNNEL",
+      "TYPE": "free",
+      "FLAG": "br.png",
+      "ServerIP": "servervipssh.xyz",
+      "CheckUser": "COLOCAR CHECKUSER AQUI",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
