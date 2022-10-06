@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.29",
-  "ReleaseNotes": "Pudim v29\n\nQuase Tudo On",
+  "Version": "1.0.30",
+  "ReleaseNotes": "Pudim v30\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
@@ -10,7 +10,7 @@
 "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
   "Servers": [
 {
-      "Name": "PUDIM SV [1]",
+      "Name": "SV PUDINFICADO [1]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "pudim.hyvozin.ml",
@@ -21,7 +21,7 @@
       "PASS": ""
     },
 {
-      "Name": "PUDIM SV [2]",
+      "Name": "SV PUDINFICADO [2]",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "dbz.pudinficaduh.ml",
@@ -32,7 +32,7 @@
       "PASS": ""
     },
   {
-      "Name": "SV NETTUNNEL",
+      "Name": "SV PUDINFICADO [3]",
       "TYPE": "free",
       "FLAG": "br.png",
       "ServerIP": "servervipssh.xyz",
@@ -45,7 +45,7 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V29 🍮",
+      "Name": "🍮 PUDIM V30 🍮",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
