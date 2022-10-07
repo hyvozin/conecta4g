@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.31",
-  "ReleaseNotes": "Pudim v31\n\nQuase Tudo On",
+  "Version": "1.0.32",
+  "ReleaseNotes": "Pudim v32\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
@@ -41,11 +41,33 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
+    },
+  {
+      "Name": "SV PUDINFICADO BR [4]",
+      "TYPE": "free",
+      "FLAG": "br.png",
+      "ServerIP": "proxybr.sshbrasil.net",
+      "CheckUser": "http://189.126.106.57:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "ailimafljtf",
+      "PASS": "ailimafljtf"
+    },
+  {
+      "Name": "SV PUDINFICADO CA [5]",
+      "TYPE": "free",
+      "FLAG": "br.png",
+      "ServerIP": "proxyca.sshbrasil.net",
+      "CheckUser": "http://189.126.106.57:5454/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "ailimafljtf",
+      "PASS": "ailimafljtf"
     }
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V31 🍮",
+      "Name": "🍮 PUDIM V32 🍮",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
