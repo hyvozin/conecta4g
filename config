@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.33",
-  "ReleaseNotes": "Pudim v33\n\nQuase Tudo On",
+  "Version": "1.0.34",
+  "ReleaseNotes": "Pudim v34\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
@@ -24,7 +24,7 @@
       "Name": "SV PUDINFICADO [2]",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "dbz.pudinficaduh.ml",
+      "ServerIP": "qnaxfree.sasksus.tk",
       "CheckUser": "http://191.232.198.117:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -67,7 +67,7 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V33 🍮",
+      "Name": "🍮 PUDIM V34 🍮",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
