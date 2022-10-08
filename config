@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.32",
-  "ReleaseNotes": "Pudim v32\n\nQuase Tudo On",
+  "Version": "1.0.33",
+  "ReleaseNotes": "Pudim v33\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
@@ -13,7 +13,7 @@
       "Name": "SV PUDINFICADO [1]",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "pudim.hyvozin.ml",
+      "ServerIP": "www.cloudeclypse.cf",
       "CheckUser": "http://20.197.235.228:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -67,7 +67,7 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V32 🍮",
+      "Name": "🍮 PUDIM V33 🍮",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
