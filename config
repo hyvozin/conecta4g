@@ -1,10 +1,10 @@
 {
-  "Version": "1.0.36",
-  "ReleaseNotes": "Pudim v36\n\nQuase Tudo On",
+  "Version": "1.0.37",
+  "ReleaseNotes": "Pudim v37\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
-  "UrlContato": "https://t.me/hyvozin",
+  "UrlContato": "https://t.me/nuvempudinficada",
   "UrlTermos": "https://t.me/nuvempudinficada",
   "CheckUser": "true",
 "UdpPort": "7300;7500;7295;7296;7200;7297;7298;7299;7400",
@@ -67,7 +67,7 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V36 🍮",
+      "Name": "🍮 PUDIM V37 🍮",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
