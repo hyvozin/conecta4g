@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.39",
-  "ReleaseNotes": "Pudim v39\n\nQuase Tudo On",
+  "Version": "1.0.40",
+  "ReleaseNotes": "Pudim v40\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
@@ -67,7 +67,8 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V39 🍮",
+      "Name": "🍮 PUDIM V40 🍮",
+"FLAG": "ic_pudim",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
