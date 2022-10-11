@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.42",
-  "ReleaseNotes": "Pudim v42\n\nQuase Tudo On",
+  "Version": "1.0.43",
+  "ReleaseNotes": "Pudim v43\n\nQuase Tudo On\n\nTim by Aisaka",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
@@ -67,7 +67,7 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V42 🍮",
+      "Name": "🍮 PUDIM V43 🍮",
 "FLAG": "ic_pudim",
       "Payload": "HTTP/",
       "SNI": "",
@@ -76,6 +76,16 @@
       "ProxyPort": "80",
       "Info": "Direct"
      },
+{
+"Name": "INJECT PROXY 0",
+            "FLAG": "tim",
+            "Payload": "GET wss://auth-uat-us.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "auth-uat-us.surveymonkey.com",
+            "TlsIP": "104.18.7.22",
+            "ProxyIP": "",
+            "ProxyPort": "443",
+            "Info": "Tlsws"
+},
     {
 "Name": "INJECT PROXY 1",
       "FLAG": "vivo",
