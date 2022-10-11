@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.40",
+  "Version": "1.0.41",
   "ReleaseNotes": "Pudim v40\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
@@ -36,7 +36,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "dbz.pudinficaduh.ml",
-      "CheckUser": "http://20.226.2.134:5454/checkUser",
+      "CheckUser": "http://4.228.206.138:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
