@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.38",
-  "ReleaseNotes": "Pudim v38\n\nQuase Tudo On",
+  "Version": "1.0.39",
+  "ReleaseNotes": "Pudim v39\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
@@ -25,7 +25,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "qnaxfree.sasksus.tk",
-      "CheckUser": "http://191.232.198.117:5454/checkUser",
+      "CheckUser": "http://209.14.137.23:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -67,7 +67,7 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V38 🍮",
+      "Name": "🍮 PUDIM V39 🍮",
       "Payload": "HTTP/",
       "SNI": "",
       "TlsIP": "",
