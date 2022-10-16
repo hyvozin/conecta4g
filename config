@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.46",
-  "ReleaseNotes": "Pudim v46\n\nQuase Tudo On\n\nTim by Aisaka",
+  "Version": "1.0.47",
+  "ReleaseNotes": "Pudim v47\n\nQuase Tudo On",
   "UrlUpdate": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/config",
   "Sms": "https://raw.githubusercontent.com/hyvozin/conecta4g/main/sms",
   "EmailFeedback": "https://t.me/hyvozin",
@@ -14,7 +14,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "pudim.hyvozin.ml",
-      "CheckUser": "http://4.228.101.250:5454/checkUser",
+      "CheckUser": "http://20.226.55.98:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -67,7 +67,7 @@
   ],
 "Networks": [
   {
-      "Name": "🍮 PUDIM V46 🍮",
+      "Name": "🍮 PUDIM V47 🍮",
 "FLAG": "ic_pudim",
       "Payload": "HTTP/",
       "SNI": "",
